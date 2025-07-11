@@ -6,9 +6,18 @@ A sleek and functional calculator built with Flutter. Supports basic arithmetic 
 
 ---
 
+---
+
+## 📸 Screenshots
+
+![App Screenshot](assets/images/calculator_screenshot.png)
+
+> Replace `calculator_screenshot.png` with your actual image name and make sure it's in the `assets/images/` folder.
+
+
 ## ✨ Features
 
-- 🔢 Basic arithmetic operations: `+`, `-`, `×`, `÷`, `%`
+- 🔢 Basic arithmetic operations: `+`, `-`, `×`, `÷`, `%` ,
 - 🧼 Clear all & delete last entry
 - 💡 Real-time expression and result display
 - 📱 Responsive layout for all screen sizes
