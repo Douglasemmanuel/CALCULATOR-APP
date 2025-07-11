@@ -34,7 +34,7 @@ A sleek and functional calculator built with Flutter. Supports basic arithmetic 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/flutter-calculator.git
+git clone git@github.com:Douglasemmanuel/CALCULATOR-APP.git
 cd flutter-calculator
 
 2.  Open the Folder:
