@@ -9,8 +9,8 @@ A sleek and functional calculator built with Flutter. Supports basic arithmetic 
 
 ## 📸 Screenshots
 
-<img src="assets/images/screenshot1.png" alt="Calculator App Screenshot 1" width="300"/>  
-<img src="assets/images/screenshot2.png" alt="Calculator App Screenshot 2" width="300"/>
+<img src="assets/images/calculator_screenshot.png" alt="Calculator App Screenshot 1" width="300"/>  
+<img src="assets/images/calculator_screenshot2.png" alt="Calculator App Screenshot 2" width="300"/>
 
 > Replace the filenames with your actual images if different. You can also adjust the `width` for resizing.
 
