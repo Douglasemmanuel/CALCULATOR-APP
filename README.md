@@ -4,20 +4,22 @@
 
 A sleek and functional calculator built with Flutter. Supports basic arithmetic operations with a beautiful and responsive UI.
 
----
 
 ---
 
 ## 📸 Screenshots
 
-![App Screenshot](assets/images/calculator_screenshot.png)
+<img src="assets/images/screenshot1.png" alt="Calculator App Screenshot 1" width="300"/>  
+<img src="assets/images/screenshot2.png" alt="Calculator App Screenshot 2" width="300"/>
 
-> Replace `calculator_screenshot.png` with your actual image name and make sure it's in the `assets/images/` folder.
+> Replace the filenames with your actual images if different. You can also adjust the `width` for resizing.
 
+
+---
 
 ## ✨ Features
 
-- 🔢 Basic arithmetic operations: `+`, `-`, `×`, `÷`, `%` ,
+- 🔢 Basic arithmetic operations: `+`, `-`, `×`, `÷`, `%` , `sin` , `cos` , `tan`
 - 🧼 Clear all & delete last entry
 - 💡 Real-time expression and result display
 - 📱 Responsive layout for all screen sizes
