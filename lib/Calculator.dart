@@ -28,6 +28,18 @@ class _CalculatorAppState extends State<CalculatorApp> {
       CalculatorButton(text: "√", value: "√", type: ButtonType.function),
       CalculatorButton(text: "÷", value: "÷", type: ButtonType.operation, color: Colors.orange),
     ],
+     [
+    CalculatorButton(text: "sin", value: "sin", type: ButtonType.function),
+    CalculatorButton(text: "cos", value: "cos", type: ButtonType.function),
+    CalculatorButton(text: "tan", value: "tan", type: ButtonType.function),
+    CalculatorButton(text: "log", value: "log", type: ButtonType.function),
+  ],
+  [
+    CalculatorButton(text: "ln", value: "ln", type: ButtonType.function),
+    CalculatorButton(text: "x²", value: "x²", type: ButtonType.function),
+    CalculatorButton(text: "x³", value: "x³", type: ButtonType.function),
+    CalculatorButton(text: "1/x", value: "1/x", type: ButtonType.function),
+  ],
     [
       CalculatorButton(text: "7", value: "7", type: ButtonType.number),
       CalculatorButton(text: "8", value: "8", type: ButtonType.number),
